@@ -296,7 +296,7 @@ li{
 #main li::before{
   position: relative;
   margin-left: -4.25pt;
-  content: 'â€¢ ';
+  content: '• ';
 }
 
 .details .concise ul{
