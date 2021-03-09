@@ -239,9 +239,6 @@ li{
   color: #000;
 }
 
-.details li{
-  font-size: 14px;
-}
 
 .details h3{
   font-size: 9pt;
@@ -312,13 +309,8 @@ li{
 
 .details .concise li {
   margin: 0 !important;
+  font-size: 12px;
 }
-
-.details .concise li {
-  margin-left: 0 !important;
-}
-
-
 
 /* sidebar */
 
