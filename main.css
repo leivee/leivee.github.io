@@ -291,6 +291,7 @@
   
   #main li{
     margin: 0 0 0.025in 0;
+    font-size: 11px;
   }
   
   /****** customize list symbol style ******/
@@ -362,4 +363,8 @@
     font-family: "Source Code Pro";
     font-weight: 400;
     font-style: normal;
+  }
+  
+  #laurier {
+    display: none;
   }
