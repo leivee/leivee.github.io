@@ -164,7 +164,7 @@
     flex: 0 0 var(--date-block-width);
     padding-top: calc(var(--row-blocks-padding-top) + 2.5pt) !important;
     padding-right: var(--decorator-horizontal-margin);
-    font-size: 7pt;
+    font-size: 8pt;
     text-align: right;
     line-height: 1;
   }
@@ -260,7 +260,7 @@
   
   .details .place{
     float: left;
-    font-size: 7.5pt;
+    font-size: 8pt;
   }
   
   .details .location{
@@ -291,7 +291,7 @@
   
   #main li{
     margin: 0 0 0.025in 0;
-    font-size: 11px;
+    font-size: 9pt;
   }
   
   /****** customize list symbol style ******/
